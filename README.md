@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on NLP
+
+- 🌱 I’m currently learning Computer Vision
+
+- 📫 How to reach me: xxxxxxxx@gmail.com
+
 <!--
 **zoltarzol/zoltarzol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
